@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stallonefx
+- 👋 Hi, I’m @StalloneMusiagah
 - 👀 I’m interested in creation of softwares
 - 🌱 I’m currently learning softaware engineering
 - 💞️ I’m looking to collaborate on software creation projects
